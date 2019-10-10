@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-     "autoload": {
+    "autoload": {
         "psr-4": {
             "Digitalcrm\\Contact\\": "src/"
         }
@@ -21,5 +21,6 @@
             "providers": [
                 "Digitalcrm\\Contact\\ContactServiceProvider"
             ]
+        }
     }
 }
