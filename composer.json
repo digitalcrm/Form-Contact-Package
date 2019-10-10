@@ -15,5 +15,11 @@
         "psr-4": {
             "Digitalcrm\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Digitalcrm\\Contact\\ContactServiceProvider"
+            ]
     }
 }
