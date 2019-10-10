@@ -1,0 +1,19 @@
+{
+    "name": "digitalcrm/contact",
+    "description": "This will send email and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "digitalcrm",
+            "email": "info@digitalcrm.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Digitalcrm\\Contact\\": "src/"
+        }
+    }
+}
