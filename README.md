@@ -1,3 +1,3 @@
-##Readme File
-Run this composer command for downloading the package
-<h1>composer require digitalcrm/contact</h1>
+##Readme File<br>
+Run this composer command for downloading the package<br>
+<h4>composer require digitalcrm/contact</h4>
